@@ -1,2 +1,4 @@
 # ReactiveCocoaDemo
-ReactiveCocoa中文源代码注释（未完成） 
+ReactiveCocoa v4.2.2 source code document
+
+ReactiveCocoa v4.2.2 源代码分析
